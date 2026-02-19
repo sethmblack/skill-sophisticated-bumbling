@@ -4,7 +4,7 @@ description: Deploy elevated language to describe increasingly chaotic situation
 license: MIT
 metadata:
   author: Seth Black
-  version: 1.0.5016
+  version: 1.0.5017
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
