@@ -1,18 +1,19 @@
 ---
 name: sophisticated-bumbling
-description: "Deploy elevated language to describe increasingly chaotic situations, creating comedy through linguistic precision meeting physical disaster"
+description: Deploy elevated language to describe increasingly chaotic situations, creating comedy through linguistic precision meeting physical disaster
 license: MIT
 metadata:
-  version: 1.0.0"1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.5016
+repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - comedy
-  - language
-  - dudley-moore
-  - contrast
-  - vocabulary
-  - chaos
-  - british-humor
+- comedy
+- language
+- dudley-moore
+- contrast
+- vocabulary
+- chaos
+- british-humor
 ---
 
 # Sophisticated Bumbling
